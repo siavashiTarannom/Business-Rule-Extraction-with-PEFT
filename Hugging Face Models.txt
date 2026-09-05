@@ -1,0 +1,7 @@
+The folowing Hugging Face collection contains all of the important Models generated for this project. 
+
+Collection Link: https://hf.co/collections/businessrules/important-models
+
+- br-classifier-logreg: The classifying model we trained with logistig regression on a small dataset to identify Has Rule and No Rule cases from one another. 
+- Qwen-base-br-qlora_exp10: Fine-tuned model of EXP10 which had the best results amoung other trainings.
+- The rest of the model: Fine-tuned models from all the 17 rounds of experiment. 

@@ -1,0 +1,10 @@
+The folowing Hugging Face collection contains all of the important datasets generated for this project. 
+
+Collection Link: https://hf.co/collections/businessrules/important-datasets
+
+- Golden_dataset: The dataset has 50 golden datapoints 
+- Code_snippets: Contains all the 950 code snippets extracted from different projects.
+- dataset_stratified_test: The full synthetically generated datasets with train / test splits. The splits are defined strategically using the stratified splitting pipeline proposed in the project. 
+- Qwen_base_tuned_exp10_results: Contains the results fine-tuned model in EXP10 has generated for the 200 datapoints in tests split. 
+- GPT4_baseline_results: Contains the results GPT-4.1 has generated for the test split. (without prompt engineering)
+- Rest of the datsets: Results of running each round of fine-tuned models on the test split.
